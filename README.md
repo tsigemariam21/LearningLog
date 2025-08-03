@@ -1,0 +1,1 @@
+This project is a simple web application designed to help users record, track, and reflect on their learning journey. It allows users to add, view, and organize learning entries in an easy-to-use interface.
